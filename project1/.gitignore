@@ -7,3 +7,5 @@ __pycache__
 *.log
 *.env
 network_audit.txt
+
+*.mp4
