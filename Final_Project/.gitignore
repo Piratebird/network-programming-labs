@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyw
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+
+# Environments
+venv/
+.env
+.env.*
+
+# Uploads & Downloads
+/storage/
+storage/uploads/
+storage/downloads/
+
+# Testing
+test/
+tests/
+*_test.py
+*_tests.py
+test_*.py
+*test*.log
+*.test
+.coverage
+htmlcov/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# videos
+*mp4

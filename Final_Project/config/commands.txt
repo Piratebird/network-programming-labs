@@ -1,0 +1,3 @@
+vyos_router:set system login banner post-login 'Property of Lab Network'|set system time-zone UTC
+arista_switch:hostname Arista-SW1|clock timezone UTC
+mikrotik_switch:/system identity set name=MikroTik-SW2|/ip service set winbox disabled=yes

@@ -1,0 +1,3 @@
+vyos_router,vyos,vyos
+arista_switch,admin,admin
+mikrotik_switch,admin,admin
