@@ -262,6 +262,8 @@ Uploaded files are saved in `project2/uploads/`. Downloaded files are saved in `
 
 ## Final Project: Network Automation Lab
 
+> **Final Project** — For less technical details, check [HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md).
+
 The final project automates a simulated GNS3 network, monitors router CPU, sniffs packets, manages end devices, and runs a TCP chat application across the lab hosts.
 
 ### What it does
